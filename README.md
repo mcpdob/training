@@ -1,0 +1,2 @@
+# training
+Trainings Page Bootstraped
